@@ -1,0 +1,15 @@
+C:\Users\SAAGAR TIMALSENA\Desktop\Training\Daythree\bin\Debug\net6.0\Daythree.exe
+C:\Users\SAAGAR TIMALSENA\Desktop\Training\Daythree\bin\Debug\net6.0\Daythree.deps.json
+C:\Users\SAAGAR TIMALSENA\Desktop\Training\Daythree\bin\Debug\net6.0\Daythree.runtimeconfig.json
+C:\Users\SAAGAR TIMALSENA\Desktop\Training\Daythree\bin\Debug\net6.0\Daythree.dll
+C:\Users\SAAGAR TIMALSENA\Desktop\Training\Daythree\bin\Debug\net6.0\Daythree.pdb
+C:\Users\SAAGAR TIMALSENA\Desktop\Training\Daythree\obj\Debug\net6.0\Daythree.csproj.AssemblyReference.cache
+C:\Users\SAAGAR TIMALSENA\Desktop\Training\Daythree\obj\Debug\net6.0\Daythree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAAGAR TIMALSENA\Desktop\Training\Daythree\obj\Debug\net6.0\Daythree.AssemblyInfoInputs.cache
+C:\Users\SAAGAR TIMALSENA\Desktop\Training\Daythree\obj\Debug\net6.0\Daythree.AssemblyInfo.cs
+C:\Users\SAAGAR TIMALSENA\Desktop\Training\Daythree\obj\Debug\net6.0\Daythree.csproj.CoreCompileInputs.cache
+C:\Users\SAAGAR TIMALSENA\Desktop\Training\Daythree\obj\Debug\net6.0\Daythree.dll
+C:\Users\SAAGAR TIMALSENA\Desktop\Training\Daythree\obj\Debug\net6.0\refint\Daythree.dll
+C:\Users\SAAGAR TIMALSENA\Desktop\Training\Daythree\obj\Debug\net6.0\Daythree.pdb
+C:\Users\SAAGAR TIMALSENA\Desktop\Training\Daythree\obj\Debug\net6.0\Daythree.genruntimeconfig.cache
+C:\Users\SAAGAR TIMALSENA\Desktop\Training\Daythree\obj\Debug\net6.0\ref\Daythree.dll
